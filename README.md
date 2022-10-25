@@ -1,4 +1,5 @@
 ﻿# Oct25Sql-Assesment
+ ```
  create table movies(
     -> Title varchar(20) NOT NULL DEFAULT '',
     -> Runtime int unsigned NOT NULL DEFAULT 0,
